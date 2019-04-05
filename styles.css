@@ -1,0 +1,23 @@
+*{
+	margin: 0px;
+	padding: 0px; 
+	border: 0px;
+	box-sizing: border-box;
+}
+
+body{
+	background: blueviolet;
+	padding: 100px;
+}
+
+Btinicio{
+ background-color: #e88300;/COLOR DE FONDO DE LA PAGINA/
+ font-family:Sans-serif;
+ font-size:30px ;/TAMAÑO DE LETRA/
+ font-weight: bold;/NEGRITA/
+ padding:20px ;
+ border: none; 
+ cursor:pointer ;
+ text-decoration:none; 
+ color:#111085;/COLOR DE LETRA/
+}
